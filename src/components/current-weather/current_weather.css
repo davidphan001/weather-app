@@ -1,10 +1,9 @@
 .weather {
-  width: 500px;
   border-radius: 10px;
   box-shadow: 15px -2px 20px 2px rgb(0 0 0 / 30%);
   color: white;
   background-color: lightskyblue;
-  margin: 20px auto 0 auto;
+  margin: 20px 5px 20px 5px;
   padding: 0 20px 20px 20px;
 }
 
